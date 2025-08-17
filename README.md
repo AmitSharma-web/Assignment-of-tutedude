@@ -26,3 +26,12 @@ num3 = (num1/num2)
 print('DIVISION:',num3)
 
 
+# QUESTION NO 2
+#THIS IS FIRST ASSIGNMENT OF AMIT SHARMA TO RINT GREETNGS TO THE GIVEN INPUT
+
+first = input('ENTER YOUR FIRST NAME ')
+
+last = input('ENTER YOUR LAST NAME ')
+
+print('Hey ! ', first ,last,' Nice to meet you \n \tTHIS IS AMIT SHARMA  \n\t2ND TASK ON TUTEDUDE ' )
+
