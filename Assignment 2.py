@@ -5,4 +5,13 @@ if number % 2 == 0:
     print(f"{number} is even")
     #checking the no\umber is even or not
 else:
+
     print(f"{number} is odd")
+
+#2nd question by using sum loop
+
+total=0
+
+for i in range(1,51):
+    total +=i
+print(f"The sum of 1 to 50 is : ", total)
